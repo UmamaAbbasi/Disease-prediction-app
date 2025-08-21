@@ -14,7 +14,7 @@ This project is a Machine Learning based disease prediction system deployed with
 - Streamlit, Joblib
 
  📦 Installation
-git clone https://github.com/Umama Abbasi/disease-prediction-app.git
+git clone https://github.com/UmamaAbbasi/disease-prediction-app.git
 cd disease-prediction-app
 python -m venv venv
 venv\Scripts\activate   # Windows
