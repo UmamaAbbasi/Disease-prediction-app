@@ -1,0 +1,59 @@
+{
+  "target_col": "Outcome",
+  "features": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "feature_ranges": {
+    "Pregnancies": {
+      "min": 0.0,
+      "max": 17.0,
+      "median": 3.0
+    },
+    "Glucose": {
+      "min": 56.0,
+      "max": 199.0,
+      "median": 117.0
+    },
+    "BloodPressure": {
+      "min": 24.0,
+      "max": 122.0,
+      "median": 72.0
+    },
+    "SkinThickness": {
+      "min": 7.0,
+      "max": 99.0,
+      "median": 29.0
+    },
+    "Insulin": {
+      "min": 15.0,
+      "max": 744.0,
+      "median": 125.0
+    },
+    "BMI": {
+      "min": 18.2,
+      "max": 67.1,
+      "median": 32.4
+    },
+    "DiabetesPedigreeFunction": {
+      "min": 0.084,
+      "max": 2.329,
+      "median": 0.3825
+    },
+    "Age": {
+      "min": 21.0,
+      "max": 81.0,
+      "median": 29.0
+    }
+  },
+  "class_names": [
+    "No",
+    "Yes"
+  ]
+}
